@@ -1,7 +1,5 @@
 package calculator;
 
-import operator.Operator;
-
 import java.util.*;
 import java.util.stream.*;
 

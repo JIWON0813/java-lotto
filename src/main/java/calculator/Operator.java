@@ -1,4 +1,4 @@
-package operator;
+package calculator;
 
 import java.util.Arrays;
 import java.util.function.BiFunction;
